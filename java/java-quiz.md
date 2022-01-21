@@ -178,8 +178,8 @@ class Main {
 
 - [ ] The code does not compile.
 - [ ] truefalse
-- [x] truetrue
-- [ ] falsetrue
+- [ ] truetrue
+- [x] falsetrue
 
 #### Q11. Given the following two classes, what will be the output of the Main class?
 
